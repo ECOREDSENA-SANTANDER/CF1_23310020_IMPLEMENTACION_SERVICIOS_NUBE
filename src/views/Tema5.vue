@@ -48,7 +48,7 @@
 
     .mb-5(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 7.
+        h5 Tabla 8.
         span Modelo de responsabilidad compartida en la nube
       .tabla-a.color-acento-contenido
         table
@@ -59,33 +59,33 @@
               th Ejemplos
           tbody
             tr
-              td Seguridad física de los centros de datos
+              td Seguridad física de los centros de datos.
               td Proveedor #[em cloud]
-              td Vigilancia, control de acceso, energía y climatización
+              td Vigilancia, control de acceso, energía y climatización.
             tr
-              td Infraestructura de red y servidores
+              td Infraestructura de red y servidores.
               td Proveedor #[em cloud]
-              td Redes, almacenamiento físico, hipervisores
+              td Redes, almacenamiento físico, hipervisores.
             tr
-              td Sistema operativo (según el servicio contratado)
+              td Sistema operativo (según el servicio contratado).
               td Usuario o proveedor
-              td Actualizaciones y configuraciones
+              td Actualizaciones y configuraciones.
             tr
-              td Gestión de usuarios y permisos
+              td Gestión de usuarios y permisos.
               td Usuario
-              td Creación de cuentas, roles y accesos
+              td Creación de cuentas, roles y accesos.
             tr
-              td Configuración de #[em firewalls] y políticas de seguridad
+              td Configuración de #[em firewalls] y políticas de seguridad.
               td Usuario
-              td Reglas de acceso a aplicaciones y bases de datos
+              td Reglas de acceso a aplicaciones y bases de datos.
             tr
-              td Cifrado de la información
+              td Cifrado de la información.
               td Usuario
-              td Protección de datos en tránsito y en reposo
+              td Protección de datos en tránsito y en reposo.
             tr
-              td Copias de seguridad y recuperación
+              td Copias de seguridad y recuperación.
               td Usuario
-              td Programación y verificación de respaldos
+              td Programación y verificación de respaldos.
     
     .mb-4
       img(src='@/assets/curso/temas/t5/4.png', alt='')
@@ -94,7 +94,7 @@
 
     .mb-5(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 8.
+        h5 Tabla 9.
         span Protección de datos en la nube
       .tabla-a.color-acento-contenido
         table
@@ -106,15 +106,15 @@
           tbody
             tr
               td Datos en tránsito
-              td Cuando la información viaja entre el usuario y la nube
+              td Cuando la información viaja entre el usuario y la nube.
               td TLS/SSL
             tr
               td Datos en reposo
-              td Cuando la información está almacenada en servidores #[em cloud]
+              td Cuando la información está almacenada en servidores #[em cloud].
               td AES-256
             tr
               td Claves de cifrado
-              td Cuando se requiere controlar el acceso a la información
+              td Cuando se requiere controlar el acceso a la información.
               td KMS (#[em Key Management Service])
 
     p.mb-4 Además de proteger la información mediante mecanismos de cifrado, las organizaciones deben implementar estrategias de respaldo que permitan recuperar los datos y restablecer los servicios ante posibles incidentes. Para ello, se utilizan dos indicadores fundamentales que orientan los planes de continuidad del negocio.
@@ -122,7 +122,7 @@
     .row.align-items-end.mb-4
       .col-lg-8(data-aos='fade-right')
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 9.
+          h5 Tabla 10.
           span Comprendiendo RPO y RTO
         .tabla-a.color-primario
           table

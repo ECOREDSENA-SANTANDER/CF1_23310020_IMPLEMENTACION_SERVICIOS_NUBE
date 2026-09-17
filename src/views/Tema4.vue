@@ -21,7 +21,7 @@
 
     .subt.mb-4(data-aos='fade-right')
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
-      h3.mb-0.ms-3.me-5.text-white La nube pública es el modelo más común
+      h3.mb-0.ms-3.me-5.text-white Identificación de necesidades organizacionales de almacenamiento 
     
     p Antes de seleccionar un servicio de almacenamiento en la nube, es necesario analizar las necesidades de la organización. Este proceso permite elegir la solución más adecuada y evitar costos innecesarios o problemas relacionados con la disponibilidad de la información.
     p Para ello, se deben considerar cuatro aspectos fundamentales:
@@ -79,7 +79,7 @@
     .row.align-items-end
       .col-lg-8(data-aos='fade-right')
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 5.
+          h5 Tabla 6.
           span Comparación entre datos estructurados y datos no estructurados
         .tabla-a.color-primario
           table
@@ -111,7 +111,8 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.2  Tipos y aplicación de servicios de almacenamiento gestionado
     
-    p.mb-5 Los proveedores de servicios en la nube ofrecen diferentes alternativas de almacenamiento para responder a las necesidades de las organizaciones. La selección de una u otra dependerá del tipo de información que se va a almacenar, la velocidad de acceso requerida y la forma en que los usuarios o aplicaciones utilizarán los datos.
+    p Los proveedores de servicios en la nube ofrecen diferentes alternativas de almacenamiento para responder a las necesidades de las organizaciones. La selección de una u otra dependerá del tipo de información que se va a almacenar, la velocidad de acceso requerida y la forma en que los usuarios o aplicaciones utilizarán los datos.
+    p.mb-5 Los tres tipos principales de almacenamiento gestionado en la nube son: almacenamiento en bloque, almacenamiento de archivos y almacenamiento de objetos. 
 
     .subt.mb-4(data-aos='fade-right')
       img(src='@/assets/curso/temas/t1/subt.svg', alt='')
@@ -201,7 +202,7 @@
 
     .mb-4(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido.mb-3
-        h5 Tabla 6.
+        h5 Tabla 7.
         span Comparación de los tipos de almacenamiento gestionado en la nube
       .tabla-a.color-acento-contenido
         table

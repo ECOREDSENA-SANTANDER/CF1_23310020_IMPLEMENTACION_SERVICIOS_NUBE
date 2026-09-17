@@ -55,9 +55,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con la definición de <em>cloud computing</em> y su función en la entrega de recursos tecnológicos.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el concepto y evolución del <em>cloud computing</em>.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el concepto y evolución del <em>cloud computing</em>.',
         },
         {
           id: 2,
@@ -87,9 +87,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los propósitos formativos relacionados con el uso inicial de servicios <em>cloud</em> y almacenamiento gestionado.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente la introducción del componente formativo y los resultados de aprendizaje asociados.',
+            'Se recomienda revisar nuevamente la introducción del componente formativo y los resultados de aprendizaje asociados.',
         },
         {
           id: 3,
@@ -119,9 +119,9 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con el cambio de CAPEX a OPEX y el modelo de pago por uso en la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con el factor de cambio comercial del <em>cloud computing</em>.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con el factor de cambio comercial del <em>cloud computing</em>.',
         },
         {
           id: 4,
@@ -151,9 +151,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de las diferencias entre infraestructura <em>on-premises</em> e infraestructura <em>cloud</em>.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con la comparación entre infraestructura <em>on-premises</em> e infraestructura <em>cloud</em>.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con la comparación entre infraestructura tradicional y nube.',
         },
         {
           id: 5,
@@ -183,9 +183,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con IaaS y el control que ofrece sobre recursos virtualizados.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con los modelos de servicio en la nube.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con los modelos de servicio en la nube.',
         },
         {
           id: 6,
@@ -215,9 +215,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con PaaS como entorno administrado para desarrollo y despliegue de aplicaciones.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con la plataforma como servicio y su diferencia frente a IaaS y SaaS.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con la plataforma como servicio y su diferencia frente a IaaS y SaaS.',
         },
         {
           id: 7,
@@ -247,9 +247,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con SaaS como modelo de mayor abstracción para el usuario final.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con los modelos de servicio en la nube.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con los modelos de servicio en la nube.',
         },
         {
           id: 8,
@@ -279,9 +279,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con la nube pública y su arquitectura multiinquilino.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con los modelos de despliegue de la nube.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con los modelos de despliegue de la nube.',
         },
         {
           id: 9,
@@ -311,9 +311,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con la nube privada y su uso en organizaciones con datos sensibles.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con los modelos de despliegue y sus criterios de selección.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con los modelos de despliegue y sus criterios de selección.',
         },
         {
           id: 10,
@@ -343,9 +343,9 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con infraestructuras híbridas e integración entre entornos locales y nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con nube pública, privada e infraestructuras híbridas.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con nube pública, privada e infraestructuras híbridas.',
         },
         {
           id: 11,
@@ -375,9 +375,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con el dimensionamiento correcto de recursos en la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con la identificación de requisitos de <em>hardware</em> y <em>software</em> en entornos virtualizados.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con la identificación de requisitos de <em>hardware</em> y <em>software</em> en entornos virtualizados.',
         },
         {
           id: 12,
@@ -407,9 +407,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con los requerimientos no funcionales en arquitecturas <em>cloud</em>.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con análisis de necesidades y requerimientos no funcionales.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con análisis de necesidades y requerimientos no funcionales.',
         },
         {
           id: 13,
@@ -439,9 +439,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con IaC y la automatización de procedimientos operativos en la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con la diferencia de elementos y procedimientos operativos en la nube.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con la diferencia de elementos y procedimientos operativos en la nube.',
         },
         {
           id: 14,
@@ -471,9 +471,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con IAM, privilegio mínimo y gobernanza segura en la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con gestión de identidades y accesos en entornos <em>cloud</em>.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con gestión de identidades y accesos en entornos <em>cloud</em>.',
         },
         {
           id: 15,
@@ -503,9 +503,9 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con <em>rehosting</em> como estrategia rápida de migración hacia la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con las estrategias metodológicas para la migración de servicios.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con las estrategias metodológicas para la migración de servicios.',
         },
         {
           id: 16,
@@ -535,9 +535,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con las estrategias de migración y modernización de servicios.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con <em>rehosting</em>, <em>replatforming</em> y <em>refactoring</em>.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con <em>rehosting</em>, <em>replatforming</em> y <em>refactoring</em>.',
         },
         {
           id: 17,
@@ -567,9 +567,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con el diagnóstico de necesidades de almacenamiento en la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con la identificación de necesidades organizacionales de almacenamiento.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con la identificación de necesidades organizacionales de almacenamiento.',
         },
         {
           id: 18,
@@ -599,9 +599,9 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con almacenamiento de objetos y gestión de datos no estructurados.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con modelos de almacenamiento estructurados y no estructurados.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con modelos de almacenamiento estructurados y no estructurados.',
         },
         {
           id: 19,
@@ -631,9 +631,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con DBaaS y la administración de bases de datos gestionadas en la nube.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con administración de bases de datos en entornos <em>cloud</em>.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con administración de bases de datos en entornos <em>cloud</em>.',
         },
         {
           id: 20,
@@ -663,9 +663,9 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto: 'Se evidencia un adecuado dominio de los conceptos relacionados con continuidad del negocio, respaldos y métricas de recuperación.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. Se recomienda revisar nuevamente los contenidos relacionados con seguridad de los datos y estrategias de respaldo en la nube.',
+            'Se recomienda revisar nuevamente los contenidos relacionados con seguridad de los datos y estrategias de respaldo en la nube.',
         },
       ],
       mensaje_final_aprobado: 'Ha superado la actividad y demuestra sólidos conocimientos sobre los fundamentos del <em>cloud computing</em>, los modelos de servicio y despliegue, la migración, el almacenamiento gestionado, la seguridad, los respaldos y el monitoreo continuo en la nube.',

@@ -267,7 +267,7 @@
     .mb-4(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido.mb-3
         h5 Tabla 1.
-        span Infraestructura tradicional vs. infraestructura #[em cloud] (nube)
+        span Infraestructura tradicional vs. infraestructura #[em cloud]
       .tabla-a.color-acento-contenido
         table
           thead

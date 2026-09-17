@@ -29,8 +29,44 @@
     p.mb-4 Explore la siguiente infografía para identificar qué hace un sistema, cómo debe comportarse y cómo la nube facilita el cumplimiento de estos requisitos: 
 
     .mb-0(data-aos='fade-down')
-      figure
-        img(src='@/assets/curso/temas/t3/3.svg', alt='')
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Tabla 4.
+        span Requerimientos funcionales vs. no funcionales en la nube
+      .tabla-a.color-acento-contenido
+        table
+          thead
+            tr
+              th Requerimientos funcionales 
+              th Requerimientos no funcionales
+          tbody
+            tr
+              td 
+                h5.mb-2 ¿Qué hace el sistema? 
+                p Describe las funciones, características y comportamientos específicos que el software debe realizar para los usuarios. 
+                h5.mb-2 Registro de usuarios 
+                p (Ej. Crear cuentas, iniciar sesión, gestionar perfiles) 
+                h5.mb-2 Pasarela de pago 
+                p (Ej. Procesar transacciones financieras seguras con Stripe/PayPal) 
+                h5.mb-2 Gestión de inventario 
+                p (Ej. Rastrear productos, #[em stock], pedidos) 
+                h5.mb-2 Informes y análisis 
+                p (Ej. Generar reportes de ventas, métricas) 
+                h5.mb-2 Enfoque:  
+                p.mb-0 Lógica de negocio, código del #[em software].
+              td 
+                h5.mb-2 ¿Cómo se comporta el sistema? 
+                p Especifica criterios de operación, propiedades de calidad y restricciones de rendimiento que el sistema debe cumplir. 
+                h5.mb-2 Rendimiento y velocidad 
+                p (Ej. Latencia baja < 200 ms, alto rendimiento) 
+                h5.mb-2 Seguridad y privacidad 
+                p (Ej. Cifrado de datos en reposo y tránsito, cortafuegos) 
+                h5.mb-2 Disponibilidad y confiabilidad 
+                p (Ej. Operativo 99.99 % del tiempo, alta disponibilidad) 
+                h5.mb-2 Escalabilidad y elasticidad 
+                p (Ej. Manejar aumentos rápidos de tráfico en minutos) 
+                h5.mb-1 Solución en la nube 
+                h5.mb-2 (mediante servicios administrados) 
+                p El proveedor de la nube gestiona la infraestructura para cumplir con los requerimientos no funcionales.   
     
 
     Separador
@@ -47,7 +83,7 @@
     .row.align-items-end
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 4.
+          h5 Tabla 5.
           span Comparación entre la infraestructura tradicional y la infraestructura en la nube
         .tabla-a.color-acento-contenido
           table
