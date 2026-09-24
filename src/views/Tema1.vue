@@ -245,7 +245,7 @@
         .tarjeta.bg-white.p-4
           TarjetaAudio.color-acento-botones.mb-3(
           texto="PÓDCAST: La nube y la transformación digital"
-          :audio="require_src('@/assets/curso/temas/audio/5.mp3')")
+          :audio="require_src('@/assets/curso/temas/t1/Podcast_CF1-23310020.mp3')")
           .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
           p.mb-0.px-lg-4 En el siguiente pódcast se abordan los principales beneficios de la computación en la nube y su impacto en los procesos de transformación digital de las organizaciones. A través de ejemplos y situaciones del entorno empresarial, se analizan aspectos relacionados con la optimización de recursos, la escalabilidad, la innovación y la competitividad, proporcionando elementos clave para comprender la importancia de esta tecnología en el contexto actual.
 
