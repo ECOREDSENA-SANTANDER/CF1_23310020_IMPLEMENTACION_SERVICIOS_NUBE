@@ -43,16 +43,16 @@
           tbody
             tr
               td.fw-bold IaaS
-              td #[em Infrastructure as a Service]
-              td Infraestructura como servicio
+              td #[em Infrastructure as a Service].
+              td Infraestructura como servicio.
             tr
               td.fw-bold PaaS
-              td #[em Platform as a Service]
-              td Plataforma como servicio
+              td #[em Platform as a Service].
+              td Plataforma como servicio.
             tr
               td.fw-bold SaaS
-              td #[em Software as a Service]
-              td #[em Software] como servicio
+              td #[em Software as a Service].
+              td #[em Software] como servicio.
     
     .row.mb-4
       .col-lg-12

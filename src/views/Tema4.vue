@@ -90,13 +90,13 @@
             tbody
               tr
                 td Base de datos de estudiantes.
-                td Fotografías.
+                td Fotografías
               tr
                 td Inventario de productos.
-                td Videos.
+                td Videos
               tr
                 td Registro de ventas.
-                td Archivos PDF.
+                td Archivos PDF
               tr
                 td Información de clientes.
                 td Correos electrónicos.

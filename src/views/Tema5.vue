@@ -133,11 +133,11 @@
                 th Ejemplo
             tbody
               tr
-                td RPO (#[em Recovery Point Objective])
+                td RPO (#[em Recovery Point Objective]).
                 td ¿Cuántos datos puedo perder como máximo?
                 td Si el respaldo se realiza cada hora, podrían perderse hasta 60 minutos de información.
               tr
-                td RTO (#[em Recovery Time Objective])
+                td RTO (#[em Recovery Time Objective]).
                 td ¿Cuánto tiempo puede estar fuera de servicio el sistema?
                 td El sistema debe recuperarse en máximo 15 minutos después de una falla.
       .col-lg-4.d-none.d-lg-block(data-aos='fade-left')

@@ -289,7 +289,7 @@
               td #[b Responsabilidad interna total:] el departamento de TI de la organización debe gestionar directamente el ciclo de vida del #[em hardware], la sustitución de piezas defectuosas, la actualización de #[em firmware], la aplicación de parches del sistema operativo base y la gestión ambiental del entorno.
               td #[b Responsabilidad compartida / del proveedor:] el proveedor de servicios en la nube se encarga por completo del mantenimiento correctivo y preventivo del #[em hardware] físico, la infraestructura de red subyacente, la refrigeración y la actualización de los hipervisores.
             tr
-              td.fw-bold Tiempo de despliegue
+              td.fw-bold Tiempo de despliegue.
               td #[b Prolongado:] poner en marcha un nuevo servicio o entorno completo requiere pasar por todas las fases de adquisición de infraestructura física, cableado e instalación de #[em software], ralentizando el tiempo de comercialización #[em (time-to-market)].
               td #[b Prácticamente instantáneo:] el aprovisionamiento de servidores virtuales, bases de datos o soluciones complejas se realiza en cuestión de minutos o segundos a través de consolas web o mediante infraestructura como código (IaC).
             tr
