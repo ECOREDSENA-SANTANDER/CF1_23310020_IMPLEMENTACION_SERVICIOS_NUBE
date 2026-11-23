@@ -66,7 +66,7 @@
         .flecha
       .col-lg-2.col-md-5.mb-3.mb-lg-0
         .tarjeta.color-adicional-1--borde.bg-white.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
-          h5 Computación en la Nube
+          h5 Computación en la nube
           p.mb-0 Servicios disponibles por internet bajo demanda.
 
     .row.justify-content-center.mb-4
@@ -188,7 +188,7 @@
         .col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/13.svg', alt='')
         .col-lg-10.mb-4.mb-lg-0
-          h4 Actualidad #[em Cloud Computing] y #[em Edge Computing]
+          h4 #[em Cloud computing] y #[em edge computing]
           ul.lista-ul
             li.mb-1 
               i.lista-ul__vineta
@@ -199,7 +199,7 @@
             li 
               i.lista-ul__vineta
               span.mb-0 Plataformas y servicios en la nube. 
-          h4 #[em Edge Computing] (procesamiento en el borde)
+          h4 #[em Edge computing] (procesamiento en el borde)
           ul.lista-ul
             li.mb-1 
               i.lista-ul__vineta
@@ -243,12 +243,12 @@
       img(src='@/assets/curso/temas/t1/16.png', alt='')
       .p-4
         .tarjeta.bg-white.p-4
-          TarjetaAudio.color-acento-botones.mb-3(
-          texto="PÓDCAST: La nube y la transformación digital"
+          p.px-lg-4 En el siguiente pódcast se abordan los principales beneficios de la computación en la nube y su impacto en los procesos de transformación digital de las organizaciones. A través de ejemplos y situaciones del entorno empresarial, se analizan aspectos relacionados con la optimización de recursos, la escalabilidad, la innovación y la competitividad, proporcionando elementos clave para comprender la importancia de esta tecnología en el contexto actual.
+          TarjetaAudio.color-acento-botones(
+          texto="La nube: el motor de la transformación digital"
           :audio="require_src('@/assets/curso/temas/t1/Podcast_CF1-23310020.mp3')")
           .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-          p.mb-0.px-lg-4 En el siguiente pódcast se abordan los principales beneficios de la computación en la nube y su impacto en los procesos de transformación digital de las organizaciones. A través de ejemplos y situaciones del entorno empresarial, se analizan aspectos relacionados con la optimización de recursos, la escalabilidad, la innovación y la competitividad, proporcionando elementos clave para comprender la importancia de esta tecnología en el contexto actual.
-
+          
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -289,7 +289,7 @@
               td #[b Responsabilidad interna total:] el departamento de TI de la organización debe gestionar directamente el ciclo de vida del #[em hardware], la sustitución de piezas defectuosas, la actualización de #[em firmware], la aplicación de parches del sistema operativo base y la gestión ambiental del entorno.
               td #[b Responsabilidad compartida / del proveedor:] el proveedor de servicios en la nube se encarga por completo del mantenimiento correctivo y preventivo del #[em hardware] físico, la infraestructura de red subyacente, la refrigeración y la actualización de los hipervisores.
             tr
-              td.fw-bold Tiempo de despliegue.
+              td.fw-bold Tiempo de despliegue
               td #[b Prolongado:] poner en marcha un nuevo servicio o entorno completo requiere pasar por todas las fases de adquisición de infraestructura física, cableado e instalación de #[em software], ralentizando el tiempo de comercialización #[em (time-to-market)].
               td #[b Prácticamente instantáneo:] el aprovisionamiento de servidores virtuales, bases de datos o soluciones complejas se realiza en cuestión de minutos o segundos a través de consolas web o mediante infraestructura como código (IaC).
             tr

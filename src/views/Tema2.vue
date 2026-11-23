@@ -14,20 +14,20 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La arquitectura de la computación en la nube se estructura fundamentalmente a partir del nivel de abstracción tecnológica y la responsabilidad compartida entre el proveedor y el usuario, categorizándose en tres modelos de servicio esenciales para el diseño de soluciones digitales. En la base se encuentra la Infraestructura como Servicio (IaaS), que entrega el control directo sobre los recursos computacionales, de red y de almacenamiento, permitiendo al administrador tecnológico construir entornos virtualizados a la medida de los requerimientos organizacionales.
     
-    .row.justify-content-center.tarj-t2.mb-5(data-aos='fade')
-      .col-lg-3.col-md-3.col-5.mb-3.mb-lg-0
-        .tarjeta.color-primario--borde.bg-color-10.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
-          h5.mb-0.py-lg-3 IaaS  
+    .row.justify-content-center.mb-5(data-aos='fade')
+      .col-lg-2.col-md-3.col-5.mb-3.mb-lg-0
+        .tarjeta.color-primario--borde.bg-white.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
+          h5.mb-0.py-lg-1 IaaS  
       .col-1.d-flex.justify-content-center.align-items-center
         .flecha        
-      .col-lg-3.col-md-3.col-5.mb-3.mb-lg-0
-        .tarjeta.color-secundario--borde.bg-color-2.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
-          h5.mb-0.py-lg-3 PaaS
+      .col-lg-2.col-md-3.col-5.mb-3.mb-lg-0
+        .tarjeta.color-secundario--borde.bg-white.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
+          h5.mb-0.py-lg-1 PaaS
       .col-1.d-flex.justify-content-center.align-items-center
         .flecha
-      .col-lg-3.col-md-3.col-5.mb-3.mb-lg-0
-        .tarjeta.color-acento-contenido--borde.bg-color-11.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
-          h5.mb-0.py-lg-3 SaaS
+      .col-lg-2.col-md-3.col-5.mb-3.mb-lg-0
+        .tarjeta.color-adicional-1--borde.bg-white.text-center.p-4.h-100.d-flex.justify-content-center.flex-column
+          h5.mb-0.py-lg-1 SaaS
 
     .mb-4(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido.mb-3
@@ -57,7 +57,7 @@
     .row.mb-4
       .col-lg-12
         .cajon.color-secundario.bg-color-2.p-4
-          p.mb-0.text-center A medida que se avanza de IaaS a SaaS, disminuye la responsabilidad del usuario y aumenta la gestión realizada por el proveedor del servicio.
+          p.mb-0 A medida que se avanza de IaaS a SaaS, disminuye la responsabilidad del usuario y aumenta la gestión realizada por el proveedor del servicio.
     
     p.mb-4 Los modelos de despliegue en la nube determinan dónde se alojan los recursos y cómo se administran. La nube pública ofrece escalabilidad y economía, la nube privada brinda mayor control y seguridad, y la nube híbrida combina ambos entornos para lograr flexibilidad y eficiencia.
 
@@ -90,7 +90,7 @@
         p Ejemplo aplicado: #[br]
         p.mb-0 Un equipo de desarrollo de #[em software] necesita un entorno con características específicas del sistema operativo Linux para ejecutar simulaciones de datos. Utilizan un servicio IaaS (como AWS EC2 o Azure Virtual Machines) para desplegar un servidor virtual. Ellos son responsables de instalar las actualizaciones de seguridad de Linux, configurar las bases de datos y desplegar su código.
     
-    p En el nivel intermedio se sitúa la plataforma como servicio #[em (PaaS - Platform as a Service)]. Este modelo está diseñado principalmente para desarrolladores de #[em software]. En el PaaS, el proveedor gestiona toda la infraestructura subyacente (servidores, redes, almacenamiento) y también el sistema operativo, el #[em middleware] y los entornos de ejecución (como Node.js, Python, Java o PHP). El usuario se libera de las tareas de administración de sistemas y se enfoca exclusivamente en la creación, despliegue y gestión de sus aplicaciones.
+    p En el nivel intermedio se sitúa la plataforma como servicio (PaaS - #[em Platform as a Service)]. Este modelo está diseñado principalmente para desarrolladores de #[em software]. En el PaaS, el proveedor gestiona toda la infraestructura subyacente (servidores, redes, almacenamiento) y también el sistema operativo, el #[em middleware] y los entornos de ejecución (como Node.js, Python, Java o PHP). El usuario se libera de las tareas de administración de sistemas y se enfoca exclusivamente en la creación, despliegue y gestión de sus aplicaciones.
 
     .bloque-texto-g.bg-color-5.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
@@ -135,7 +135,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos='fade-right')
-        p.mb-0 Estos recursos en la nube son utilizados exclusivamente por una sola organización (modelo de inquilino único o #[em single-tenant]). La nube puede estar ubicada físicamente en el centro de datos local de la empresa (#[em on-premises]) o ser alojada por un proveedor de servicios externo, pero operando en una red privada dedicada. Asi mismo, la nube privada ofrece un grado significativamente mayor de control, personalización y seguridad, lo que la convierte en la opción predilecta para entidades gubernamentales, instituciones financieras o clínicas de salud que manejan datos altamente sensibles y están sujetas a estrictas normativas de cumplimiento. Sin embargo, requiere una inversión considerable y personal especializado para su administración. 
+        p.mb-0 Estos recursos en la nube son utilizados exclusivamente por una sola organización (modelo de inquilino único o #[em single-tenant]). La nube puede estar ubicada físicamente en el centro de datos local de la empresa (#[em on-premises]) o ser alojada por un proveedor de servicios externo, pero operando en una red privada dedicada. Asimismo, la nube privada ofrece un grado significativamente mayor de control, personalización y seguridad, lo que la convierte en la opción predilecta para entidades gubernamentales, instituciones financieras o clínicas de salud que manejan datos altamente sensibles y están sujetas a estrictas normativas de cumplimiento. Sin embargo, requiere una inversión considerable y personal especializado para su administración. 
       .col-lg-6.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t2/9.png', alt='')
       
@@ -184,23 +184,23 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require_src('@/assets/curso/temas/t2/13.png')})`}"
       )
-      .bloque-texto-g__texto.p-4
-        p Por ejemplo, una plataforma de videoconferencias o simulación requiere una mayor capacidad de procesamiento, mientras que una base de datos necesita más memoria y un almacenamiento de alto rendimiento.#[br] #[br]
-        p De igual manera, es necesario identificar los requisitos de #[em software], entre ellos: #[br]
-        ul.lista-ul
-          li 
+      .bloque-texto-g__texto.t2.p-4
+        p Por ejemplo, una plataforma de videoconferencias o simulación requiere una mayor capacidad de procesamiento, mientras que una base de datos necesita más memoria y un almacenamiento de alto rendimiento.        
+        p.mb-0 De igual manera, es necesario identificar los requisitos de #[em software], entre ellos:         
+        ul.lista-ul.fa-lista.mb-0
+          li.mb-0 
             i.lista-ul__vineta
-            span.mb-0 Sistema operativo (Linux o Windows Server). #[br]
-          li 
+            span.mb-0 Sistema operativo (Linux o Windows Server). 
+          li.mb-0 
             i.lista-ul__vineta
-            span.mb-0 Aplicaciones y herramientas requeridas por la organización. #[br]
-          li 
+            span.mb-0 Aplicaciones y herramientas requeridas por la organización.
+          li.mb-0 
             i.lista-ul__vineta
-            span.mb-0 #[em Frameworks] y componentes de desarrollo. #[br]
-          li 
+            span.mb-0 #[em Frameworks] y componentes de desarrollo.
+          li.mb-0 
             i.lista-ul__vineta
-            span.mb-0 #[em Middleware] y servicios de integración. #[br]
-          li 
+            span.mb-0 #[em Middleware] y servicios de integración. 
+          li.mb-0 
             i.lista-ul__vineta
             span.mb-0 Licencias de uso del #[em software]. 
 

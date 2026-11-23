@@ -42,7 +42,7 @@
             tr
               td 
                 h5.mb-2 ¿Qué hace el sistema? 
-                p Describe las funciones, características y comportamientos específicos que el software debe realizar para los usuarios. 
+                p Describe las funciones, características y comportamientos específicos que el #[em software] debe realizar para los usuarios. 
                 h5.mb-2 Registro de usuarios 
                 p (Ej. Crear cuentas, iniciar sesión, gestionar perfiles) 
                 h5.mb-2 Pasarela de pago 
@@ -124,7 +124,7 @@
       .row(titulo="<em>Rehosting</em>  (mover sin modificar)")
         .col-11.col-lg-6
           p Esta estrategia consiste en trasladar la aplicación a la nube tal como funciona actualmente, sin realizar cambios importantes en su estructura o código. Es similar a cambiar una oficina de edificio sin modificar el mobiliario ni la forma de trabajar.
-          p Su principal ventaja es la rapidez de implementación, por lo que suele utilizarse cuando se requiere una migración rápida y con bajo impacto operativo.	Ejemplo: mover un servidor web físico a una máquina virtual en la nube.
+          p Su principal ventaja es la rapidez de implementación, por lo que suele utilizarse cuando se requiere una migración rápida y con bajo impacto operativo.
           p #[b Ejemplo:] mover un servidor web físico a una máquina virtual en la nube.
           img.w-75.d-none.d-lg-block(src='@/assets/curso/temas/t3/deco.png', alt='')
         .col-md-6.d-none.d-lg-block
